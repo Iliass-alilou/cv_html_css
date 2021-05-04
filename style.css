@@ -154,6 +154,14 @@ section > div{
   font-weight: normal;
 }
 
+/* section projects */
+.projet>.projet-logo{
+  float: left;
+  
+}
+
+
+
 /*SECTION COMPETENCES*/
 .h3gauche{
   width: 90%;
